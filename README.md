@@ -2,7 +2,8 @@
 A Python **3** script to encode OGG files with oggenc and keeping the file tree
 
 ## Usage
-This script does not require any additional module
+The **vorbis-tools** package must be installed
+This script does not require any additional module.
 
 ### Command
 For a simple use, the command can be launched without option
