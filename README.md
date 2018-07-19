@@ -6,6 +6,7 @@ For each encoder, its corresponding package must be installed:
 - **vorbis-toos** for VORBIS codec
 - **opus-tools** for OPUS codec
 - **lame** for MP3 codec
+
 This script does not require any additional module.
 
 ### Command
