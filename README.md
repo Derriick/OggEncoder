@@ -26,4 +26,6 @@ For a simple use, the command can be launched without option
 | `-d, --destination` | Speficy the extension of the destination files (default corresponds to chosen encoder) |
 | `-c, --copy`        | Copy the other files from `source` to `destination` |
 | `-f, --force`       | Overwrite existing files                            |
+| `-v, --verbose`     | Display encoder output                              |
+| `-t, --threads`     | Specify the number of threads (default 2)           |
   
