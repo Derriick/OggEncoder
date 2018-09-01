@@ -78,7 +78,7 @@ def get_quality(encoder):
 				print ("Specify quality or bitrate")
 				sys.exit(2)
 			elif is_number(options.bitrate):
-				return ["-B", options.bitrate]
+				return ["-b", options.bitrate, "--cbr"]
 		elif options.bitrate == None:
 			if options.quality == "h":
 				return ["-h"]
